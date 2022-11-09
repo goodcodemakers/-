@@ -35,5 +35,5 @@ $(function(){
   $('#site-menu-close').on('click',function(){
     $('#site-map-menu').removeClass('show');
   });
-})
+});
 

@@ -352,4 +352,8 @@ a {
   /* display: block; */
   
 }
-
+#site-menu-close{
+  background-color: transparent;
+  border-style: none;
+  cursor: pointer;
+}
