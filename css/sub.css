@@ -43,7 +43,7 @@
 }
 
 #about #sub-title {
-  background-image: url("/images/about-title.jpg");
+  background-image: url("../images/about-title.jpg");
   background-color: #000;
   background-repeat: no-repeat;
   background-position: center center;
@@ -97,7 +97,7 @@
   /* outline: 4px solid red; */
 }
 #location #sub-title {
-  background-image: url("/images/location-title.jpg");
+  background-image: url("../images/location-title.jpg");
   background-color: #000;
   background-repeat: no-repeat;
   background-position: center center;
